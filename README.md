@@ -1,3 +1,3 @@
 
 
-![python test](https://github.com/actions/flask-github-actions/workflows/Python%20application/badge.svg)
+![Workflow](https://github.com/biraj094/flask-github-actions/workflows/Python%20application/badge.svg)
